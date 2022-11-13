@@ -1,4 +1,4 @@
-import Card from "./Card.js";
+import Card from "../UI/Card";
 import ExpenseData from "./ExpenseData.js";
 import "./ExpenseItem.css";
 
